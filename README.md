@@ -12,7 +12,7 @@ We performed different classification models to predict the employee attrition r
 7. Voting Classifier 
 8. Random Forest Classifier
 
-#Visualization 
+# Visualization 
 Data Visualization is graphical representation of information and data by using tools like charts,graphs,maps.This tools provide an accessible way to see and understand trends,patterns in data. We have used PowerBI for Visualization
 
 connect on email mhkalepatil@gmail.com
